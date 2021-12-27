@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhb881
+- 👋 Hi, I’m @Blackbeans
 - 👀 I’m interested in mathematics and philosophy
 - 🌱 I’m currently learning python3
 - 💞️ I’m looking to collaborate on yet.
